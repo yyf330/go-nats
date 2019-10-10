@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/go-nats"
+	"github.com/yyf330/go-nats"
 )
 
 // This function returns the number of go routines ensuring

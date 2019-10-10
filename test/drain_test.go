@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	nats "github.com/nats-io/go-nats"
+	nats "github.com/yyf330/go-nats"
 )
 
 // Drain can be very useful for graceful shutdown of subscribers.

@@ -17,7 +17,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/nats-io/go-nats"
+	"github.com/yyf330/go-nats"
 )
 
 func NewGobEncodedConn(tl TestLogger) *nats.EncodedConn {

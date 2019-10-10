@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/go-nats"
+	"github.com/yyf330/go-nats"
 )
 
 func TestBadChan(t *testing.T) {

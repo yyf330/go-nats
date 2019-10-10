@@ -18,7 +18,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/nats-io/go-nats"
+	"github.com/yyf330/go-nats"
 )
 
 // NOTE: Can test with demo servers.
